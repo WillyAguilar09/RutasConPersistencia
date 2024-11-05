@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Perez",
+    "email": "jperez@patito.com",
+    "telefono": "9990-0009"
+  },
+  {
+    "id": 2,
+    "nombre": "Pedro Gonzalez",
+    "email": "pgonzalez@patito.com",
+    "telefono": "9991-0009"
+  },
+  {
+    "id": 3,
+    "nombre": "Wilmer Aguilar",
+    "email": "jwsellbycar@gmail.com",
+    "telefono": "31566596"
+  },
+  {
+    "id": 4,
+    "nombre": "Javier Ordonez",
+    "email": "Javier.gr@gmail.com",
+    "telefono": "9990-0009"
+  }
+]
